@@ -1,3 +1,1 @@
-#!/bin/bash
-realpath 0-current_working_directory
-
+"Where am I" script print the absolute pathname of the current working directory
